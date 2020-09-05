@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package portal.health;
+
+message HealthRequest {
+  string payload = 1;
+}
+
+message HealthResponse {
+  string payload = 1;
+}
+
+service Check {
+  rpc Message (HealthRequest) returns (HealthResponse) {}
+}

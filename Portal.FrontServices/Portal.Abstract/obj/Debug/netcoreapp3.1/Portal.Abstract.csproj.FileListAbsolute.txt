@@ -1,0 +1,9 @@
+/home/roy/workspace/portal/portal/services/Portal.FrontServices/Portal.Abstract/bin/Debug/netcoreapp3.1/Portal.Abstract.deps.json
+/home/roy/workspace/portal/portal/services/Portal.FrontServices/Portal.Abstract/bin/Debug/netcoreapp3.1/Portal.Abstract.dll
+/home/roy/workspace/portal/portal/services/Portal.FrontServices/Portal.Abstract/bin/Debug/netcoreapp3.1/Portal.Abstract.pdb
+/home/roy/workspace/portal/portal/services/Portal.FrontServices/Portal.Abstract/obj/Debug/netcoreapp3.1/Portal.Abstract.csprojAssemblyReference.cache
+/home/roy/workspace/portal/portal/services/Portal.FrontServices/Portal.Abstract/obj/Debug/netcoreapp3.1/Portal.Abstract.AssemblyInfoInputs.cache
+/home/roy/workspace/portal/portal/services/Portal.FrontServices/Portal.Abstract/obj/Debug/netcoreapp3.1/Portal.Abstract.AssemblyInfo.cs
+/home/roy/workspace/portal/portal/services/Portal.FrontServices/Portal.Abstract/obj/Debug/netcoreapp3.1/Portal.Abstract.csproj.CoreCompileInputs.cache
+/home/roy/workspace/portal/portal/services/Portal.FrontServices/Portal.Abstract/obj/Debug/netcoreapp3.1/Portal.Abstract.dll
+/home/roy/workspace/portal/portal/services/Portal.FrontServices/Portal.Abstract/obj/Debug/netcoreapp3.1/Portal.Abstract.pdb

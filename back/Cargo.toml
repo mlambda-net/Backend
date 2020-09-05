@@ -1,0 +1,16 @@
+[package]
+name = "backend"
+version = "0.1.0"
+authors = ["Roy Gonzalez <rgonzalez@tradestation.com>"]
+edition = "2018"
+
+
+
+[dependencies]
+prost = "0.6.1"
+tonic = {version="0.3.1",features = ["tls"]}
+tokio = {version="0.2.22",features = ["stream", "macros"]}
+futures = "0.3.5"
+
+[build-dependencies]
+tonic-build = "0.3.1"

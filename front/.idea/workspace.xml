@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="899c8332-4291-415e-978d-d910e280b05b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.services/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/.idea/.idea.services/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/.idea/.idea.services/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/.idea/.idea.services/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/.idea/.idea.services/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/.idea/.idea.services/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/.idea/.idea.services/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/.idea/.idea.services/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/.idea/.idea.services/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/Abstract/IHealthService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/Controllers/HealthController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/Portal.FrontServices.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/Services/HealthService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/WeatherForecast.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/Google.Protobuf.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/Grpc.Core.Api.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/Grpc.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/Grpc.Net.Client.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/Grpc.Net.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/frontend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/frontend.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/frontend.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/frontend.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/portal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/portal.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/portal.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/portal.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/portal.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/portal.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/runtimes/linux/native/libgrpc_csharp_ext.x64.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/runtimes/linux/native/libgrpc_csharp_ext.x86.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/runtimes/osx/native/libgrpc_csharp_ext.x64.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/runtimes/osx/native/libgrpc_csharp_ext.x86.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/runtimes/win/native/grpc_csharp_ext.x64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/bin/Debug/netcoreapp3.1/runtimes/win/native/grpc_csharp_ext.x86.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/0f0619d3b904f3e3_health.protodep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/Health.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/HealthGrpc.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/Portal.FrontServices.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/Portal.FrontServices.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/Portal.FrontServices.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/Portal.FrontServices.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/Portal.FrontServices.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/Portal.FrontServices.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/Portal.FrontServices.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/Portal.FrontServices.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/Portal.FrontServices.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/frontend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/frontend.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/frontend.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/frontend.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/frontend.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/frontend.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/frontend.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/frontend.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/frontend.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/frontend.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/frontend.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/frontend.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/frontend.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/portal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/portal.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/portal.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/portal.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/portal.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/portal.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/portal.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/portal.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/portal.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/portal.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/portal.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/portal.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/portal.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/staticwebassets/frontend.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/staticwebassets/frontend.StaticWebAssets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/staticwebassets/portal.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Debug/netcoreapp3.1/staticwebassets/portal.StaticWebAssets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Portal.FrontServices.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Portal.FrontServices.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/Portal.FrontServices.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/frontend.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/frontend.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/frontend.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/portal.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/portal.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/portal.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portal.FrontServices/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.idea/backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/.idea/.idea.services/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.14.2" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1h1npMJIvwU5N38NS8Ck7dpvXHC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="899c8332-4291-415e-978d-d910e280b05b" name="Default Changelist" comment="" />
+      <created>1599187668995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599187668995</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
