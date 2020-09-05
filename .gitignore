@@ -1,0 +1,11 @@
+**/target/
+**/obj/
+**/bin
+**/.idea/
+Cargo.lock
+
+.idea/
+bin/
+debug/
+target/
+/.idea/

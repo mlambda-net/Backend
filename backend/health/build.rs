@@ -3,7 +3,7 @@ fn main()->Result<(),Box<dyn std::error::Error>> {
         .build_client(false)
         .build_server(true)
         .format(true)
-        .out_dir("health/src/api")
+        .out_dir("src/api")
         .compile(&["proto/health.proto"], &["proto"])
         .unwrap();
     Ok(())

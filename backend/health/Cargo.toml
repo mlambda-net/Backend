@@ -1,17 +1,10 @@
 [package]
-name = "backend"
+name = "health"
 version = "0.1.0"
-authors = ["Roy Gonzalez <rgonzalez@tradestation.com>"]
+authors = ["Roy <yordivad@gmail.com>"]
 edition = "2018"
 
-
-[[lib]]
-name="server"
-path= "health/src/lib.rs"
-
-[[bin]]
-name = "health-client"
-path = "client/health.rs"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 prost = "0.6.1"
